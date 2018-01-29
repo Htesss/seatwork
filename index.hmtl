@@ -1,6 +1,6 @@
 <html>
  
- <body styl="background: A0A0A0;">
+ <body style="background: A0A0A0;">
      
     <h1>Title</h1>
     <link rel="stylesheet" type="text/css" href="./style.css" />
